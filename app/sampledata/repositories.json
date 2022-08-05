@@ -1,123 +1,111 @@
 {
   "data": [
     {
-      "id": 81223601,
-      "name": "android-DocumentCentricApps",
+      "id": 504625821,
+      "name": "api-collections",
       "owner": {
-        "login": "EzequielMessore",
-        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
+        "login": "LiviaVilarinho",
+        "avatar_url": "https://avatars.githubusercontent.com/u/104936137?v=4"
       },
       "stargazers_count": 0,
-      "language": "Java",
-      "html_url": "https://github.com/EzequielMessore/android-DocumentCentricApps",
-      "description": "description"
+      "language": "Kotlin",
+      "html_url": "https://github.com/LiviaVilarinho/api-collections",
+      "description": "Trabalhando com Arrays e afins"
     },
     {
-      "id": 178429138,
-      "name": "android-guidelines",
+      "id": 521428899,
+      "name": "app-repositories",
       "owner": {
-        "login": "EzequielMessore",
-        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
+        "login": "LiviaVilarinho",
+        "avatar_url": "https://avatars.githubusercontent.com/u/104936137?v=4"
       },
-      "html_url": "https://github.com/EzequielMessore/android-guidelines",
-      "description": "Architecture and code guidelines we use at ribot when developing for Android",
+      "html_url": "https://github.com/LiviaVilarinho/app-repositories",
+      "description": "null",
       "stargazers_count": 0,
-      "language": "guideline"
+      "language": "Kotlin"
     },
     {
-      "id": 183915325,
-      "name": "android-testing",
+      "id": 503566379,
+      "name": "Calculadora",
       "owner": {
-        "login": "EzequielMessore",
-        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
+        "login": "LiviaVilarinho",
+        "avatar_url": "https://avatars.githubusercontent.com/u/104936137?v=4"
       },
-      "html_url": "https://github.com/EzequielMessore/android-testing",
-      "description": "A collection of samples demonstrating different frameworks and techniques for automated testing",
-      "stargazers_count": 1,
+      "html_url": "https://github.com/LiviaVilarinho/Calculadora",
+      "description": "Config files for my GitHub profile.",
+      "stargazers_count": 0,
+      "language": "Kotlin"
+    },
+    {
+      "id": 520687213,
+      "name": "CartaoDeVisitas",
+      "owner": {
+        "login": "LiviaVilarinho",
+        "avatar_url": "https://avatars.githubusercontent.com/u/104936137?v=4"
+      },
+      "html_url": "https://github.com/LiviaVilarinho/CartaoDeVisitas",
+      "description": "null",
+      "stargazers_count": 0,
+      "language": "Kotlin"
+    },
+    {
+      "id": 514866767,
+      "name": "desafio-de-codigo-vetor",
+      "owner": {
+        "login": "LiviaVilarinho",
+        "avatar_url": "https://avatars.githubusercontent.com/u/104936137?v=4"
+      },
+      "html_url": "https://github.com/LiviaVilarinho/desafio-de-codigo-vetor",
+      "description": "null",
+      "stargazers_count": 0,
       "language": "Java"
     },
     {
-      "id": 378749135,
-      "name": "app-repositories",
+      "id": 516391367,
+      "name": "desafio-POO-DIO-CODEGIRLS",
       "owner": {
-        "login": "EzequielMessore",
+        "login": "LiviaVilarinho",
+        "avatar_url": "https://avatars.githubusercontent.com/u/104936137?v=4"
+      },
+      "html_url": "https://github.com/LiviaVilarinho/desafio-POO-DIO-CODEGIRLS",
+      "description": "Praticando o conceito fundamental de Orientação a Objetos  no Desafio de Códigos do Bootcamp CODE GIRLS da DIO. Para isso, os pilares da OO são devidamente formalizados: Abstração, Encapsulamento, Herança e Polimorfismo. Com isso, desenvolvi minha capacidade de abstração com um problema real e implementar as evoluções que achei interessantes.",
+      "stargazers_count": 0,
+      "language": "Java"
+    },
+    {
+      "id": 518878590,
+      "name": "Desafios-intermediarios-santander-mobile-developer-corrida-de-tartarugas",
+      "owner": {
+        "login": "LiviaVilarinho",
         "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
       },
-      "html_url": "https://github.com/EzequielMessore/app-repositories",
-      "description": "empty description",
-      "stargazers_count": 2,
+      "html_url": "https://github.com/LiviaVilarinho/Desafios-intermediarios-santander-mobile-developer-corrida-de-tartarugas",
+      "description": "null",
+      "stargazers_count": 0,
       "language": "Kotlin"
     },
     {
-      "id": 63367755,
-      "name": "avaliacao-ios",
+      "id": 518949307,
+      "name": "Desafios-intermediarios-santander-mobile-developer-fibonacci-facil",
       "owner": {
-        "login": "EzequielMessore",
-        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
+        "login": "LiviaVilarinho",
+        "avatar_url": "https://avatars.githubusercontent.com/u/104936137?v=4"
       },
-      "html_url": "https://github.com/EzequielMessore/avaliacao-ios",
-      "description": "empty description",
-      "stargazers_count": 3,
-      "language": "Objective-C"
-    },
-    {
-      "id": 63448974,
-      "name": "avaliacao-ios-manual",
-      "owner": {
-        "login": "EzequielMessore",
-        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
-      },
-      "html_url": "https://github.com/EzequielMessore/avaliacao-ios-manual",
-      "description": "empty description",
-      "stargazers_count": 7,
-      "language": "Objective-C"
-    },
-    {
-      "id": 263680765,
-      "name": "base-redcode",
-      "owner": {
-        "login": "EzequielMessore",
-        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
-      },
-      "html_url": "https://github.com/EzequielMessore/base-redcode",
-      "description": "empty description",
-      "stargazers_count": 1,
-      "language": "Empty"
-    },
-    {
-      "id": 183948239,
-      "name": "BaseJetpack",
-      "owner": {
-        "login": "EzequielMessore",
-        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
-      },
-      "html_url": "https://github.com/EzequielMessore/BaseJetpack",
-      "description": "Examples with Jetpack components",
-      "stargazers_count": 2,
+      "html_url": "https://github.com/LiviaVilarinho/Desafios-intermediarios-santander-mobile-developer-fibonacci-facil",
+      "description": "null",
+      "stargazers_count": 0,
       "language": "Kotlin"
     },
     {
-      "id": 265040807,
-      "name": "Chuck-Norris-Facts",
+      "id": 518873121,
+      "name": "Desafios-intermediarios-santander-mobile-developer-triangulo",
       "owner": {
-        "login": "EzequielMessore",
-        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
+        "login": "LiviaVilarinho",
+        "avatar_url": "LiviaVilarinho"
       },
-      "html_url": "https://github.com/EzequielMessore/Chuck-Norris-Facts",
-      "description": "An Android client for the Chuck Norris facts API",
-      "stargazers_count": 5,
-      "language": "Kotlin"
-    },
-    {
-      "id": 369822554,
-      "name": "coin-converter",
-      "owner": {
-        "login": "EzequielMessore",
-        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
-      },
-      "html_url": "https://github.com/EzequielMessore/coin-converter",
-      "description": "empty description",
-      "stargazers_count": 1,
+      "html_url": "https://github.com/LiviaVilarinho/Desafios-intermediarios-santander-mobile-developer-triangulo",
+      "description": "ADesafio de código do Bootcamp Developer Mobile Santander sobre triângulo, área e perímetro",
+      "stargazers_count": 0,
       "language": "Kotlin"
     }
   ]
